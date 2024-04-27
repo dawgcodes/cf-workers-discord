@@ -1,0 +1,1 @@
+{"version":3,"file":"commandContext.d.ts","sourceRoot":"","sources":["../../src/contexts/commandContext.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gCAAgC,EAAE,MAAM,uBAAuB,CAAC;AACzE,OAAO,EAAE,OAAO,EAAE,MAAM,WAAW,CAAC;AAGpC,qBAAa,cAAe,SAAQ,OAAO;IAChC,WAAW,EAAE,gCAAgC,CAAC;IAC9C,GAAG,EAAE,GAAG,CAAC;gBACJ,WAAW,EAAE,gCAAgC,EAAE,QAAQ,EAAE,MAAM,EAAE,GAAG,EAAE,GAAG;CAKxF"}
